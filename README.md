@@ -12,7 +12,7 @@ Best practice is to use a virtual environment:
 
 python3 -m venv .venv
 source .venv/bin/activate
-Go to the directory in which the setup.py file for the vm_snapshot exists.
+Go to the directory in which the setup.py file for exists.
 To install the package directly using the setup.py file run:
 
 pip install .
